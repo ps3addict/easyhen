@@ -12,4 +12,6 @@ Click on "HEN Enablers" link.
 
 Click on the second link on that page (for USB000.html)
 
-HEN should enable and install. Reboot when done!
+HEN should enable and install.
+
+REMOVE THE USB DRIVE and reboot when done!
