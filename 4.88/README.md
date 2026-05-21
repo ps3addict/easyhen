@@ -1,8 +1,8 @@
 # Grab both files and place them in root of USB drive.
 
-[PS3HEN.BIN](PS3HEN.BIN)
+Download [PS3HEN.BIN](PS3HEN.BIN)
 
-[HEN_UPD.pkg](HEN_UPD.pkg)
+Download [HEN_UPD.pkg](HEN_UPD.pkg)
 
 Plug the USB drive in the slot closest to disc drive on your PS3.
 

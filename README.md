@@ -1,10 +1,4 @@
-#We need specific files for your firmware version...
-
-# On you PS3? Click below to automatically determine your firmware verison.
-
-[Auto-detect from PS3](https://ps3addict.github.io/easyhen/auto.html)
-
-# If not on your PS3, click on your firmware version below.
+#You need specific files for your firmware version...
 
 [HFW 4.93](https://ps3addict.github.io/easyhen/4.93/index.html)
 
