@@ -1,4 +1,8 @@
-#You need specific files for your firmware version...
+#Easiest HEN install method
+
+You will download 2 files and place them on a USB drive.
+
+   Click on you PS3's firmware version...
 
 [HFW 4.93](https://ps3addict.github.io/easyhen/4.93/index.html)
 
