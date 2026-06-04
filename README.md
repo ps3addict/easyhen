@@ -31,3 +31,6 @@ You will download 2 files and place them on a USB drive.
 [OFW 4.81](https://ps3addict.github.io/easyhen/4.81/index.html)
 
 [OFW 4.80](https://ps3addict.github.io/easyhen/4.80/index.html)
+
+** Firmware below 4.85 will have trouble using github site.
+** You can update firmware or self-host the hmtl enable instead.

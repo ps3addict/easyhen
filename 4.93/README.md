@@ -15,3 +15,6 @@ Click on the second link on that page (for USB000.html)
 HEN should enable and install.
 
 REMOVE THE USB DRIVE and reboot when done!
+
+** Do not leave pkg file on USB with it plugged into PS3 after installation!
+** It will be found by HEN and reinstalled everytime you enable HEN!
